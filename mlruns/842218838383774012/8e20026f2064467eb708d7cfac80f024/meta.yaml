@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tassi/Desktop/Hr%20Logistic%20Regression%20-%20MLFlow/mlruns/842218838383774012/8e20026f2064467eb708d7cfac80f024/artifacts
+end_time: 1736782315597
+entry_point_name: ''
+experiment_id: '842218838383774012'
+lifecycle_stage: active
+run_id: 8e20026f2064467eb708d7cfac80f024
+run_name: first_try
+run_uuid: 8e20026f2064467eb708d7cfac80f024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736782313164
+status: 3
+tags: []
+user_id: tassi

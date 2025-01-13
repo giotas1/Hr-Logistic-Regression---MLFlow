@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tassi/Desktop/Hr%20Logistic%20Regression%20-%20MLFlow/mlruns/842218838383774012/1d516349a5424838bb731a74d2821242/artifacts
+end_time: 1736782603322
+entry_point_name: ''
+experiment_id: '842218838383774012'
+lifecycle_stage: active
+run_id: 1d516349a5424838bb731a74d2821242
+run_name: Employee_Attrition_Analysis_and_Model_Training
+run_uuid: 1d516349a5424838bb731a74d2821242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736782597710
+status: 3
+tags: []
+user_id: tassi

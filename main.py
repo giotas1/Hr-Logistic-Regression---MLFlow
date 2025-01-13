@@ -11,7 +11,8 @@ import mlflow
 import mlflow.sklearn
 
 # Start MLflow run with a descriptive name
-with mlflow.start_run(run_name='Employee_Attrition_Analysis_and_Model_Training'):
+def main():
+    with mlflow.start_run(run_name='Employee_Attrition_Analysis_and_Model_Training'):
     mlflow.set_experiment('Employee Attrition Analysis')
 
     # Load the dataset
@@ -94,3 +95,6 @@ with mlflow.start_run(run_name='Employee_Attrition_Analysis_and_Model_Training')
     mlflow.log_metric('accuracy', accuracy)
     mlflow.log_params(model.get_params())
     mlflow.log_param('features', features)
+
+if __name__ == '__main__':
+    main()
